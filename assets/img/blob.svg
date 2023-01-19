@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#BAE6FF" d="M65.7,-21.9C74,4.1,61.8,36.2,41.7,48.7C21.7,61.2,-6.3,54.1,-25.8,39.1C-45.4,24,-56.6,1,-50.9,-21.4C-45.2,-43.9,-22.6,-65.7,3.1,-66.7C28.7,-67.7,57.5,-47.9,65.7,-21.9Z" transform="translate(100 100)" />
+</svg>
+
+  <svg
+    width="1000"
+    height="1000"
+    viewBox="0 0 1000 1000"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <defs>
+      
+      
+      <linearGradient id="linearGradientId" gradientTransform="rotate(-45 0.5 0.5)">
+      <stop offset="0%"  stop-color="#0093E9" />
+			<stop offset="100%"  stop-color="#80D0C7" />
+    </linearGradient>
+      
+      
+      
+      
+      <clipPath id="shape">
+        <path fill="currentColor" d="M813.5,682Q710,864,486,888Q262,912,194,706Q126,500,216,332.5Q306,165,516,136.5Q726,108,821.5,304Q917,500,813.5,682Z"></path>
+      </clipPath>
+    </defs>
+  
+    
+
+    <g  clip-path="url(#shape)">
+      <path fill="url(#linearGradientId)" d="M813.5,682Q710,864,486,888Q262,912,194,706Q126,500,216,332.5Q306,165,516,136.5Q726,108,821.5,304Q917,500,813.5,682Z" />
+    </g>
+
+    
+  
+  </svg>
